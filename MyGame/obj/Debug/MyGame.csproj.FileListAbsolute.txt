@@ -1,0 +1,28 @@
+D:\GeekBrains\First\-2-lvl\MyGame\MyGame\bin\Debug\MyGame.exe.config
+D:\GeekBrains\First\-2-lvl\MyGame\MyGame\bin\Debug\MyGame.exe
+D:\GeekBrains\First\-2-lvl\MyGame\MyGame\bin\Debug\MyGame.pdb
+D:\GeekBrains\First\-2-lvl\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\GeekBrains\First\-2-lvl\MyGame\MyGame\obj\Debug\MyGame.exe
+D:\GeekBrains\First\-2-lvl\MyGame\MyGame\obj\Debug\MyGame.pdb
+D:\GeekBrains\First\-2-lvl\MyGame\MyGame\obj\Debug\Interop.WMPLib.dll
+D:\GeekBrains\First\-2-lvl\MyGame\MyGame\obj\Debug\MyGame.csproj.ResolveComReference.cache
+D:\GeekBrains\First\-2-lvl\MyGame\MyGame\bin\Debug\MyGame.xml
+D:\Программирование\GeekBrains\I четверть\C# 2 Уровень.Продвинутый\Игра\MyGame\MyGame\bin\Debug\MyGame.exe.config
+D:\Программирование\GeekBrains\I четверть\C# 2 Уровень.Продвинутый\Игра\MyGame\MyGame\bin\Debug\MyGame.xml
+D:\Программирование\GeekBrains\I четверть\C# 2 Уровень.Продвинутый\Игра\MyGame\MyGame\bin\Debug\MyGame.exe
+D:\Программирование\GeekBrains\I четверть\C# 2 Уровень.Продвинутый\Игра\MyGame\MyGame\bin\Debug\MyGame.pdb
+D:\Программирование\GeekBrains\I четверть\C# 2 Уровень.Продвинутый\Игра\MyGame\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+D:\Программирование\GeekBrains\I четверть\C# 2 Уровень.Продвинутый\Игра\MyGame\MyGame\obj\Debug\Interop.WMPLib.dll
+D:\Программирование\GeekBrains\I четверть\C# 2 Уровень.Продвинутый\Игра\MyGame\MyGame\obj\Debug\MyGame.csproj.ResolveComReference.cache
+D:\Программирование\GeekBrains\I четверть\C# 2 Уровень.Продвинутый\Игра\MyGame\MyGame\obj\Debug\MyGame.exe
+D:\Программирование\GeekBrains\I четверть\C# 2 Уровень.Продвинутый\Игра\MyGame\MyGame\obj\Debug\MyGame.pdb
+D:\Загрузки\MyGame-20211020T135408Z-001\MyGame\MyGame\bin\Debug\MyGame.exe.config
+D:\Загрузки\MyGame-20211020T135408Z-001\MyGame\MyGame\bin\Debug\MyGame.xml
+D:\Загрузки\MyGame-20211020T135408Z-001\MyGame\MyGame\bin\Debug\MyGame.exe
+D:\Загрузки\MyGame-20211020T135408Z-001\MyGame\MyGame\bin\Debug\MyGame.pdb
+D:\Загрузки\MyGame-20211020T135408Z-001\MyGame\MyGame\obj\Debug\MyGame.csproj.AssemblyReference.cache
+D:\Загрузки\MyGame-20211020T135408Z-001\MyGame\MyGame\obj\Debug\Interop.WMPLib.dll
+D:\Загрузки\MyGame-20211020T135408Z-001\MyGame\MyGame\obj\Debug\MyGame.csproj.ResolveComReference.cache
+D:\Загрузки\MyGame-20211020T135408Z-001\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\Загрузки\MyGame-20211020T135408Z-001\MyGame\MyGame\obj\Debug\MyGame.exe
+D:\Загрузки\MyGame-20211020T135408Z-001\MyGame\MyGame\obj\Debug\MyGame.pdb

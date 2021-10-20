@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyGame</name>
+    </assembly>
+    <members>
+        <member name="M:MyGame.BaseObject.#ctor(System.Drawing.Point,System.Drawing.Point,System.Drawing.Size)">
+            <summary>
+            Описание
+            </summary>
+            <param name="pos">позиция</param>
+            <param name="dir">скорость</param>
+            <param name="size">размер</param>
+        </member>
+        <member name="P:MyGame.Game.Width">
+            <summary>
+            Ширина и высота игррового поля
+            </summary>
+        </member>
+        <member name="M:MyGame.Game.Timer_Tick(System.Object,System.EventArgs)">
+            <summary>
+            Таймер.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:MyGame.Game.Load">
+            <summary>
+            Инициализация объектов.
+            </summary>
+        </member>
+        <member name="M:MyGame.Game.SoundFon">
+            <summary>
+            Фоновая музыка.
+            </summary>
+        </member>
+        <member name="M:MyGame.Game.playSimpleSound(System.Int32)">
+            <summary>
+            Проигрывание звуков.
+            </summary>
+            <param name="choiceMelody">выбор звука.</param>
+        </member>
+        <member name="M:MyGame.Game.#cctor">
+            <summary>
+            Конструктор класса Game.
+            </summary>
+        </member>
+        <member name="M:MyGame.Game.Form_KeyDown(System.Object,System.Windows.Forms.KeyEventArgs)">
+            <summary>
+            Задаём управление кораблём
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:MyGame.Game.Init(System.Windows.Forms.Form)">
+            <summary>
+            Инициализация графики.
+            </summary>
+            <param name="form">Форма для вывода графики</param>
+        </member>
+        <member name="M:MyGame.Game.Update">
+            <summary>
+            Изменение состояния объектов.Проверка столкновений.
+            </summary>
+        </member>
+        <member name="M:MyGame.Game.Draw">
+            <summary>
+            Отрисовка объектов.
+            </summary>
+        </member>
+        <member name="M:MyGame.Game.Finish">
+            <summary>
+            Отработка проигрыша.
+            </summary>
+        </member>
+        <member name="M:MyGame.Game.LoadAsteroids">
+            <summary>
+            Загрузка астероидов.
+            </summary>
+        </member>
+        <member name="M:MyGame.Game.NextLevel">
+            <summary>
+            Отработка перехода на следующий уровень или конца игры.
+            </summary>
+        </member>
+    </members>
+</doc>
